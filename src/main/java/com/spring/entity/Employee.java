@@ -1,7 +1,10 @@
-package com.hibernate.spring.entity;
+package com.spring.entity;
 
 
-import jakarta.persistence.*;
+
+
+import javax.persistence.*;
+
 
 @Entity
 @Table(name = "employees")
